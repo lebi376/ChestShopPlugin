@@ -1,0 +1,5 @@
+# The item that you want to be paying with
+currency: "EMERALD"
+
+# The cost of creating a shop
+creationcost: 0

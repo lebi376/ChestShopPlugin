@@ -1,0 +1,6 @@
+name: ChestShop
+version: '${project.version}'
+main: leb0wn.chestshop.ChestShop
+api-version: 1.18
+prefix: ChestShop
+authors: [ Lebi376, dev0wn ]
